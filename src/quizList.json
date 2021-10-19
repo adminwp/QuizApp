@@ -1,0 +1,242 @@
+[
+	{
+		"question": "result 2 + 2 ?",
+		"options": [
+			{
+				"answer": "4",
+				"currect": "true"
+			},
+
+			{
+				"answer": "1",
+				"currect": "false"
+			},
+
+			{
+				"answer": "3",
+				"currect": "false"
+			},
+
+			{
+				"answer": "7",
+				"currect": "false"
+			}
+		]
+	},
+	{
+		"question": "result 6 * 9 ?",
+		"options": [
+			{
+				"answer": "14",
+				"currect": "false"
+			},
+
+			{
+				"answer": "32",
+				"currect": "false"
+			},
+
+			{
+				"answer": "78",
+				"currect": "false"
+			},
+
+			{
+				"answer": "54",
+				"currect": "true"
+			}
+		]
+	},
+	{
+		"question": "result 9 - 3 ?",
+		"options": [
+			{
+				"answer": "5",
+				"currect": "false"
+			},
+
+			{
+				"answer": "3",
+				"currect": "false"
+			},
+
+			{
+				"answer": "6",
+				"currect": "true"
+			},
+
+			{
+				"answer": "2",
+				"currect": "false"
+			}
+		]
+	},
+	{
+		"question": "result 2 * 3 ?",
+		"options": [
+			{
+				"answer": "2",
+				"currect": "false"
+			},
+
+			{
+				"answer": "1",
+				"currect": "false"
+			},
+
+			{
+				"answer": "3",
+				"currect": "false"
+			},
+
+			{
+				"answer": "6",
+				"currect": "true"
+			}
+		]
+	},
+	{
+		"question": "result (12 + 4) * 2 ?",
+		"options": [
+			{
+				"answer": "25",
+				"currect": "false"
+			},
+
+			{
+				"answer": "32",
+				"currect": "true"
+			},
+
+			{
+				"answer": "36",
+				"currect": "false"
+			},
+
+			{
+				"answer": "22",
+				"currect": "false"
+			}
+		]
+	},
+	{
+		"question": "result (12 + 12) / 2 ?",
+		"options": [
+			{
+				"answer": "5",
+				"currect": "false"
+			},
+
+			{
+				"answer": "9",
+				"currect": "false"
+			},
+
+			{
+				"answer": "18",
+				"currect": "false"
+			},
+
+			{
+				"answer": "12",
+				"currect": "true"
+			}
+		]
+	},
+	{
+		"question": "result 5 * 2 - 4 + 2 / 2",
+		"options": [
+			{
+				"answer": "4",
+				"currect": "false"
+			},
+
+			{
+				"answer": "2",
+				"currect": "true"
+			},
+
+			{
+				"answer": "8",
+				"currect": "false"
+			},
+
+			{
+				"answer": "11",
+				"currect": "false"
+			}
+		]
+	},
+	{
+		"question": "result 5 + 10 * ( 10 - 5) / 5",
+		"options": [
+			{
+				"answer": "4",
+				"currect": "false"
+			},
+
+			{
+				"answer": "2",
+				"currect": "true"
+			},
+
+			{
+				"answer": "8",
+				"currect": "false"
+			},
+
+			{
+				"answer": "11",
+				"currect": "false"
+			}
+		]
+	},
+	{
+		"question": "result 2 + 10 * ( 10 - 6) / 3",
+		"options": [
+			{
+				"answer": "16",
+				"currect": "true"
+			},
+
+			{
+				"answer": "23",
+				"currect": "false"
+			},
+
+			{
+				"answer": "14",
+				"currect": "false"
+			},
+
+			{
+				"answer": "26",
+				"currect": "false"
+			}
+		]
+	},
+	{
+		"question": "result (5 * 2) + (5 * 10) / 10",
+		"options": [
+			{
+				"answer": "49",
+				"currect": "false"
+			},
+
+			{
+				"answer": "55",
+				"currect": "false"
+			},
+
+			{
+				"answer": "60",
+				"currect": "true"
+			},
+
+			{
+				"answer": "35",
+				"currect": "false"
+			}
+		]
+	}
+]
